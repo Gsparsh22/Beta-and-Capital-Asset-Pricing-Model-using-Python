@@ -18,8 +18,7 @@ The script performs the following tasks:
 - `start_date`: Start date for fetching historical data (YYYY-MM-DD).
 - `end_date`: End date for fetching historical data (YYYY-MM-DD).
 - `rf`: Risk-free rate (used for CAPM calculation).
-- `duration`: Total simulation time (s).
-- `dt`: Time step (s).
+- `rm`: Market rate
 
 ## Key Functions
 
